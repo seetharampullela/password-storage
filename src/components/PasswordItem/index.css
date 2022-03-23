@@ -1,0 +1,36 @@
+.list-item {
+  border: 1px solid #94a3b8;
+  background-color: transparent;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+}
+
+.details-bottom {
+  line-height: 0.5;
+}
+.delete-btn {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.delete-img {
+  width: 30%;
+}
+.star-image {
+  width: 30%;
+}
+h1 {
+  color: white;
+}
+p {
+  color: white;
+}
